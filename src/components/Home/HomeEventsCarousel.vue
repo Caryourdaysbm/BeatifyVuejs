@@ -12,7 +12,7 @@
         <swiper-slide>
           <div class="event-container">
             <div>
-              <img src="../../assets/event 1.svg" class="lg:w-[75%]" />
+              <img src="../../assets/event1.svg" class="lg:w-[75%]" />
             </div>
             <div class="event-carousel-text">
               <h3 class="font-semibold">TECH-A-THON</h3>
@@ -34,7 +34,7 @@
         <swiper-slide>
           <div class="event-container">
             <div>
-              <img src="../../assets/event 2.svg" class="lg:w-[75%]" />
+              <img src="../../assets/event2.svg" class="lg:w-[75%]" />
             </div>
             <div class="event-carousel-text">
               <h3 class="font-semibold">BOOT CAMP</h3>
@@ -55,7 +55,7 @@
         <swiper-slide>
           <div class="event-container">
             <div>
-              <img src="../../assets/event 3.svg" class="lg:w-[75%]" />
+              <img src="../../assets/event3.svg" class="lg:w-[75%]" />
             </div>
             <div class="event-carousel-text">
               <h3 class="font-semibold">VACATION</h3>
@@ -73,7 +73,7 @@
         <swiper-slide>
           <div class="event-container">
             <div>
-              <img src="../../assets/event 4.svg" class="lg:w-[75%]" />
+              <img src="../../assets/event4.svg" class="lg:w-[75%]" />
             </div>
             <div class="event-carousel-text">
               <h3 class="font-semibold">SEMINAR</h3>
@@ -93,7 +93,7 @@
         <swiper-slide>
           <div class="event-container">
             <div>
-              <img src="../../assets/event 5.svg" class="lg:w-[75%]" />
+              <img src="../../assets/event5.svg" class="lg:w-[75%]" />
             </div>
             <div class="event-carousel-text">
               <h3 class="font-semibold">AWARD PARTY</h3>
