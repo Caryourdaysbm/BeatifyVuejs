@@ -13,6 +13,6 @@
   import ServicesImgHero from "../components/services/ServicesImgHero.vue";
   import ServicesText from "../components/services/ServicesText.vue";
   import ServicesAbout from "../components/services/ServicesAbout.vue";
-  import PurpleGradient from "../UI/PurpleGradient.vue";
+  import PurpleGradient from "../components/UI/PurpleGradient.vue";
   </script>
   
