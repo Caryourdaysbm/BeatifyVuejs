@@ -29,7 +29,7 @@
             <div class="flex flex-col space-y-9 md:items-center md:justify-between md:flex-row md:space-y-0 md:space-x-20 lg:space-x-6">
               <!-- Image -->
               <div>
-                <img src="../assets/Image intern.png" class="lg:w-[75%]" />
+                <img src="../assets/ImageIntern.png" class="lg:w-[75%]" />
               </div>
               <div class="lg:w-[50%] justify-start">
                 <ul class="lg:w-[70%] md:max-w-md font-semibold text-lg pb-4 cursor-pointer list-disc ">
